@@ -25,3 +25,7 @@ El acceso se puede realizar desde Postman o Navegador.
    4. Actualizar un libro existente 
    5. Borrar un libro
    6. Borrar todos los libros
+   
+   #Swagger
+   
+   *Documentation URL: http://localhost:8081/swagger-ui/
